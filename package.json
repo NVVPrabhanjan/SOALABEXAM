@@ -1,0 +1,14 @@
+{
+  "name": "soa-lab-bmsce",
+  "version": "1.0.0",
+  "main": "Lab1/index.js",
+  "files": [
+    "Lab1/",
+    "Lab2/",
+    "Lab3/",
+    "Lab4/"
+  ],
+  "description": "SOA Lab collection",
+  "author": "Your Name",
+  "license": "MIT"
+}
